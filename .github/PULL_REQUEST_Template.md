@@ -1,4 +1,4 @@
-# Pull Request Template :heart:
+# Pull Request Template :heart::dance:
 
 ## Description
 
