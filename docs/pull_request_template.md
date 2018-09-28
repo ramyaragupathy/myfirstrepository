@@ -1,1 +1,1 @@
-## Issue Heading :sparkles:
+## Issue Heading
